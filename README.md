@@ -7,3 +7,5 @@ Install with
 Run with ```heroku pg:pgcli``` (defaults to automatic login using the Heroku DATABASE_URL for the current app).
 
 Optionally run specifying the database URL ```heroku pg:pgcli postgres://*```
+
+Needs pgcli to be available in the PATH.
