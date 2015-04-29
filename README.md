@@ -1,5 +1,5 @@
 # heroku-pg-pgcli
-pgcli plugin for the [Heroku Toolbelt](https://toolbelt.heroku.com).
+[pgcli](http://pgcli.com) plugin for the [Heroku Toolbelt](https://toolbelt.heroku.com).
 
 Install with ```heroku plugins:install git@github.com:chrisanderton/heroku-pg-pgcli.git```
 
